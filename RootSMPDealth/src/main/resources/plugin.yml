@@ -1,0 +1,4 @@
+name: RootSMPDealth
+version: '${project.version}'
+main: dev.xalphabet.rootsmpdealth.RootSMPDealth
+api-version: '1.20'
